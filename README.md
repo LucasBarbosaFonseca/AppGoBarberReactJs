@@ -13,6 +13,9 @@
 - Context API that allows the responsibility for authentication, logging out the user and showing error messages in the toast 
 to be available in other components of the application.
 
-## Login
+## Registration
 <img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactJs/blob/master/ImagesFrontend/FrontendLogin1.jpeg" width="600" >
 <img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactJs/blob/master/ImagesFrontend/FrontendLogin2.jpeg" width="600" >
+<img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactJs/blob/master/ImagesFrontend/FrontendLogin3.jpeg" width="600" >
+
+## Login
