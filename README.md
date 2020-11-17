@@ -19,4 +19,5 @@ to be available in other components of the application.
 <img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactJs/blob/master/ImagesFrontend/FrontendLogin3.jpeg" width="600" >
 
 ## Login
-<img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactJs/blob/master/ImagesFrontend/FrontendRegistration1.jpeg" wibth="600" >
+<img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactJs/blob/master/ImagesFrontend/FrontendRegistration1.jpeg" width="600" >
+<img src="https://github.com/LucasBarbosaFonseca/AppGoBarberReactJs/blob/master/ImagesFrontend/FrontendRegistration2.jpeg" width="600" >
