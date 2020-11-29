@@ -4,7 +4,7 @@
 - React.Js
 - Typescript
 
-## What has been made:
+## What was done:
 - User registration page
 - User login page
 - Connections of pages the node.js api of user registration responsibillity and user login and authentication;
